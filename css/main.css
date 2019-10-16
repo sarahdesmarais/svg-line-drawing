@@ -12,6 +12,7 @@ h1 {
 
 #narwhal-eye {
   animation: fade 3s ease;
+  opacity: 0;
 }
 
 #narwhal-body {
