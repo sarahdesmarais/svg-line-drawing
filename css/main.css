@@ -20,6 +20,48 @@ h1 {
   stroke-dashoffset: 1981.415px;
 }
 
+#rainbow-violet {
+  animation: stroke 1s linear forwards;
+  stroke-dasharray: 1917.692px;
+  stroke-dashoffset: 1917.692px;
+}
+
+#rainbow-indigo {
+  animation: stroke 1s linear forwards;
+  stroke-dasharray: 1812.502px;
+  stroke-dashoffset: 1812.502px;
+}
+
+#rainbow-blue {
+  animation: stroke 1s linear forwards;
+  stroke-dasharray: 1705.479px;
+  stroke-dashoffset: 1705.479px;
+}
+
+#rainbow-green {
+  animation: stroke 1s linear forwards;
+  stroke-dasharray: 1596.043px;
+  stroke-dashoffset: 1596.043px;
+}
+
+#rainbow-yellow {
+  animation: stroke 1s linear forwards;
+  stroke-dasharray: 1483.352px;
+  stroke-dashoffset: 1483.352px;
+}
+
+#rainbow-orange {
+  animation: stroke 1s linear forwards;
+  stroke-dasharray: 1366.26px;
+  stroke-dashoffset: 1366.26px;
+}
+
+#rainbow-red {
+  animation: stroke 1s linear forwards;
+  stroke-dasharray: 1243.044px;
+  stroke-dashoffset: 1243.044px;
+}
+
 @keyframes fade {
 
   0% {
